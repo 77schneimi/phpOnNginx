@@ -6,8 +6,8 @@ Run php script on Nginx.
 
 Put your code in folder code and start the docker by command
 
-```bash
+```sh
 docker-compose up
 ```
 
-call http://localhost and you will see the php info output
+call [localhost](http://localhost) and you will see the php info output.
