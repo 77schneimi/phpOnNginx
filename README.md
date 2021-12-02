@@ -4,7 +4,7 @@ Run php script on Nginx.
 
 ## How to Run
 
-Put your code in folder code and start the docker by command
+Put your code in folder `code` and start the docker by command
 
 ```sh
 docker-compose up
